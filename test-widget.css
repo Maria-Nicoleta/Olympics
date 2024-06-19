@@ -1,4 +1,9 @@
 body {
   font-size: 20px;
   border: 1px solid red;
+
+    .header__titles h2 {
+    text-transform: uppercase;
+    color: pink;
+  }
 }
